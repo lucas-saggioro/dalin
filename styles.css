@@ -67,17 +67,6 @@
   color: var(--text-dark);
 }
 
-/* Estilo específico para o botão do WhatsApp */
-.whatsapp-button {
-  height: 50px;
-  width: auto; /* Mantém a proporção da imagem */
-  position: fixed;
-  bottom: 25px;
-  right: 25px;
-  z-index: 99999;
-}
-
-
 img {
   display: flex;
   width: 100%;
