@@ -704,6 +704,12 @@ nav {
     height: auto;
   }
 
+  img {
+    display: block;
+    max-width: 18%;
+    height: auto;
+  }
+
   nav {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra que parece uma linha */
   }
